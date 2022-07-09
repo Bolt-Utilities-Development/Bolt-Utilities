@@ -1,10 +1,10 @@
 {
-"OWNER_ID":"424206236729344001",
-    "BOT_TOKEN": "OTUxMTIzODE4MzQzMjAyODE3.GZ5E1T.rackXcy-wTLW_T5SpsN8L7GmJ7tNAbT6XmD8fw",
+"OWNER_ID":"",
+    "BOT_TOKEN": "",
     "tenorAPI":"ZEEELJXAFQBN",
     "DEFAULT_PREFIX":"!",
-    "mongoPass": "mongodb+srv://Unbannable:Minion08@bolt.xpydq.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
-    "ERROR_LOGS_CHANNEL": "951133036404178964",
+    "mongoPass": "",
+    "ERROR_LOGS_CHANNEL": "",
     "YT_COOKIE": "880218394199220334",
     "emojis": {
     "success": "<:Yes:888010591095119872>",
