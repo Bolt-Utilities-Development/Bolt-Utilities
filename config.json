@@ -1,0 +1,37 @@
+{
+"OWNER_ID":"424206236729344001",
+    "BOT_TOKEN": "OTUxMTIzODE4MzQzMjAyODE3.GZ5E1T.rackXcy-wTLW_T5SpsN8L7GmJ7tNAbT6XmD8fw",
+    "tenorAPI":"ZEEELJXAFQBN",
+    "DEFAULT_PREFIX":"!",
+    "mongoPass": "mongodb+srv://Unbannable:Minion08@bolt.xpydq.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "ERROR_LOGS_CHANNEL": "951133036404178964",
+    "YT_COOKIE": "880218394199220334",
+    "emojis": {
+    "success": "<:Yes:888010591095119872>",
+    "wrong": "<:No:888010623726784512>",
+    "warning": "<:CautionWarning:971309303526993970>"
+  },
+
+  "messages": {
+    "embeds": {
+      "colors": {
+        "yes": "#42f58a",
+        "no": "#f73e3b",
+        "error": "#dafa28"
+      }
+    }
+  },
+  
+  "systems": {
+    "suggestion": {
+      "reacts": {
+        "reaction_1": "948948438601592862",
+        "reaction_2": "948948619111854080"     
+      }  
+    }
+  }
+  
+  
+    
+}
+
